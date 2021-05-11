@@ -91,8 +91,60 @@
 }
 
 .surfbar2{
-    height: 20%;
-    background-color: rgba(255, 255, 255, 0.596);
+    height: 25%;
+    background-color: rgba(255, 255, 255, 0.459);
     display: flex;
     align-items: center;
+}
+
+
+
+.portfo{
+
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.critere{
+
+    height: 30vh;
+    width: 15vw ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.photo1{
+    background-image: url(portfolio/1.png);
+
+
+}
+
+.photo2{
+    background-image: url(portfolio/2.png);
+}
+
+.photo3{
+    background-image: url(portfolio/3.png);
+}
+
+.photo4{
+    background-image: url(portfolio/4.png);
+}
+
+.photo5{
+    background-image: url(portfolio/5.png);
+}
+
+.photo6{
+    background-image: url(portfolio/6.png);
+}
+
+.photo7{
+    background-image: url(portfolio/7.png);
+
+}
+
+.photo8{
+    background-image: url(portfolio/8.png);
 }
